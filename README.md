@@ -5,7 +5,11 @@
 - 💞️ I’m looking to collaborate on open source frameworks and libraries
 - 📫 How to reach me: Facebook: www.facebook.com/yahya.eddhissa Instagram: www.insagram.com/yahya.eddhissa
 
-<!---
-yahyaeddhissa/yahyaeddhissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yahyaeddhissa&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyaeddhissa&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+
+<!-- Deploy my own instance inthe future in order to include private repos too -->
