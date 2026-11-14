@@ -16,7 +16,6 @@ More about me at [yahyaeddhissa.com](https://yahyaeddhissa.com).
   - Software architecture and design
   - Full-stack development in JavaScript, TypeScript, SQL, Python, and PHP
   - APIs with REST and GraphQL
- 
 - Data and infrastructure
   - Database design for relational and NoSQL databases
   - Cloud and distributed systems
